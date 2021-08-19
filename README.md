@@ -3,9 +3,9 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h3 align="center">E-Commerce</h3>
+  <h3 align="center"> Expanding Cards</h3>
   <p align="center">
-    An E-commerce site with all CRUD functions. 
+ Expanding Cards
     <br/>Design & Code
     <br />
   </p>
